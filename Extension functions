@@ -1,0 +1,25 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
+//Ejercicio 1 - Extension Functions
+//fun Int.isPositive():Boolean=this > 0
+//
+//
+//fun main() {
+//    println(1.isPositive())
+//    // true
+//}
+
+
+
+//Ejercicio 2 - Extension Functions
+//fun String.toLowercaseString():String=this.lowercase()
+//
+//fun main() {
+//    println("Hello World!".toLowercaseString())
+//    // hello world!
+//}
+
+
+Conclusiones
+Dejan añadir nuevas funciones a clases existentes sin modificar su código original y se definen con Tipo.nombreFuncion() y mejoran la legibilidad. Ejemplo: "hola".invertir(). 
