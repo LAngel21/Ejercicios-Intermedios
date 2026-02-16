@@ -81,3 +81,8 @@
 //    // 32.22222222222222°C is 90.0 °F
 //}
 
+
+
+Conclusiones
+Con object se crea un singleton automáticamente. Útil para componentes únicos como repositorios o utilidades por lo que es muy simple y util el uso de objetos
+
